@@ -18,3 +18,4 @@ result = remove_even_after_max(A)
 print("Результат:", result)
 print("HELLO")
 #HELLO
+#PRIVET
