@@ -17,3 +17,4 @@ result = remove_even_after_max(A)
 # Вывод результата
 print("Результат:", result)
 print("HELLO")
+#HELLO
